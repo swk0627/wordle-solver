@@ -1,7 +1,7 @@
 # Wordle Solver
 
 ## Description
-This repository provides wordle solver by entropy maximization. The solver calculates the entropies for all variations of tiles by possible inputs in each round. And, it returns the word which has the highest entropy.
+This repository provides a Wordle solver by entropy maximization. The solver calculates the entropies for all variations of tiles by possible inputs in each round. And, it returns the word which has the highest entropy.
 
 ## Usage
 
